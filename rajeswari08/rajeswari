@@ -1,0 +1,30 @@
+a=45
+b=18
+if(a==b):
+print("line1- a is  equal to b ")
+else:
+print(line1-a is not equal to b")
+if (a!=b):
+print("line2- a is not  equal to ")
+else:
+print("line2-a is equal to b")
+if(a<b):
+print("line3- a is less than b ")
+else:
+print("line3-a is not less than b")
+if(a>b):
+print("line4- a is greater than b ")
+else:
+print("line4-a is not greater than b")
+if(a<=b):
+print("line5-a is either greater  than or equal to b")
+else:
+print("line5-a is neither greater than  nor equal to b")
+if(b>=a)
+print("line6- b is either greater  than or equal to b ")
+else:
+print("line6-b is neither greater than  nor equal to b")
+
+
+
+
