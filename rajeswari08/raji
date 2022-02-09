@@ -1,0 +1,3 @@
+km=float(input("enter kilometers"))
+cm=200000*km
+printf("%.2fkm=%.2fcm" %(km,cm)
